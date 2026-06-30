@@ -235,8 +235,6 @@ During the development of this project, important backend development concepts w
 
 ---
 
-# 👨‍💻 author
-
 # 👨‍💻 Author
 
 Developed by **Cristiano Rosa**.
